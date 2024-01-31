@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+![EkranKayd2024-01-3120 26 20-ezgif com-speed](https://github.com/yigityardibi/react-poke-card/assets/147426008/a63f5a63-780e-4329-9fc6-10524d752418)
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
